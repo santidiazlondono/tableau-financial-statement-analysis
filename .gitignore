@@ -1,0 +1,6 @@
+# Tableau temporary / backup files
+*.twbr
+*.bak
+~$*
+.DS_Store
+Thumbs.db
